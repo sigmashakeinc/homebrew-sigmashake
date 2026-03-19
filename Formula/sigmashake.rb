@@ -6,7 +6,7 @@
 class Sigmashake < Formula
   desc "AI-native infrastructure platform CLI"
   homepage "https://sigmashake.com"
-  version "0.0.1"
+  version "1.0.0"
   license "MIT"
 
   on_macos do
