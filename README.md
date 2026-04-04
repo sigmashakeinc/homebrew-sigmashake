@@ -1,16 +1,16 @@
 # homebrew-sigmashake
 
-Homebrew tap for [SigmaShake](https://sigmashake.com) CLI tools.
+Homebrew tap for [SigmaShake](https://sigmashake.com) — AI Agent Governance CLI.
 
 ## Install
 
-```bash
-brew tap sigmashakeinc/sigmashake
-brew install sigmashake
+```sh
+brew install sigmashakeinc/sigmashake/ssg
 ```
 
-## Available Formulae
+Or tap first:
 
-| Formula | Description |
-|---------|-------------|
-| `sigmashake` | AI-native infrastructure platform CLI |
+```sh
+brew tap sigmashakeinc/sigmashake
+brew install ssg
+```
